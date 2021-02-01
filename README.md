@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+#React TODO list
+
+Mantenedor de tareas, donde podrás agrega, editar, eliminar, listar y marcar como completa una tarea.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
