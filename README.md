@@ -2,6 +2,11 @@
 
 Mantenedor de tareas, donde podrás agrega, editar, eliminar, listar y marcar como completa una tarea.
 
+## dependencias utilizadas
+
+npm install --save react-toastify --> [react-toastify](https://www.npmjs.com/package/react-toastify)
+npm install react-icons --save --> [React Icons](https://www.npmjs.com/package/react-icons)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
