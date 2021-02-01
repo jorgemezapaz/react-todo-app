@@ -1,4 +1,4 @@
-#React TODO list
+# React TODO list
 
 Mantenedor de tareas, donde podrás agrega, editar, eliminar, listar y marcar como completa una tarea.
 
