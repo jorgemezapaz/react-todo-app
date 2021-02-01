@@ -8,7 +8,6 @@ function TodoForm(props) {
   useEffect(() => {
     inputRef.current.focus()
   })
-  console.log(props.edit)
 
   const handlerSubmit = (e) => {
     e.preventDefault()
